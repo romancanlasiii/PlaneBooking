@@ -1,0 +1,9 @@
+C:\Users\romanc\Downloads\PlaneBookingOptionB\PlaneBookingOptionB\PlaneBooking.HttpHandler\bin\Debug\netstandard2.0\PlaneBooking.HttpHandler.deps.json
+C:\Users\romanc\Downloads\PlaneBookingOptionB\PlaneBookingOptionB\PlaneBooking.HttpHandler\bin\Debug\netstandard2.0\PlaneBooking.HttpHandler.dll
+C:\Users\romanc\Downloads\PlaneBookingOptionB\PlaneBookingOptionB\PlaneBooking.HttpHandler\obj\Debug\netstandard2.0\PlaneBooking.HttpHandler.csprojResolveAssemblyReference.cache
+C:\Users\romanc\Downloads\PlaneBookingOptionB\PlaneBookingOptionB\PlaneBooking.HttpHandler\obj\Debug\netstandard2.0\PlaneBooking.HttpHandler.csproj.CoreCompileInputs.cache
+C:\Users\romanc\Downloads\PlaneBookingOptionB\PlaneBookingOptionB\PlaneBooking.HttpHandler\obj\Debug\netstandard2.0\PlaneBooking.HttpHandler.AssemblyInfoInputs.cache
+C:\Users\romanc\Downloads\PlaneBookingOptionB\PlaneBookingOptionB\PlaneBooking.HttpHandler\obj\Debug\netstandard2.0\PlaneBooking.HttpHandler.AssemblyInfo.cs
+C:\Users\romanc\Downloads\PlaneBookingOptionB\PlaneBookingOptionB\PlaneBooking.HttpHandler\bin\Debug\netstandard2.0\PlaneBooking.HttpHandler.pdb
+C:\Users\romanc\Downloads\PlaneBookingOptionB\PlaneBookingOptionB\PlaneBooking.HttpHandler\obj\Debug\netstandard2.0\PlaneBooking.HttpHandler.dll
+C:\Users\romanc\Downloads\PlaneBookingOptionB\PlaneBookingOptionB\PlaneBooking.HttpHandler\obj\Debug\netstandard2.0\PlaneBooking.HttpHandler.pdb
